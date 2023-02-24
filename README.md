@@ -25,7 +25,7 @@ If you want to contact me, please use: https://www.linkedin.com/in/andreadalcant
 * Data Wrangling with Pandas
 * Dash Plotly to create dashboard with extracted data<br><br>
 
-<img width="1013" alt="Dashboard with Plotly" src="https://user-images.githubusercontent.com/103200657/221297942-f023e558-f96b-4849-b6d7-e019028791a9.png">
+<img width="900" alt="Dashboard with Plotly" src="https://user-images.githubusercontent.com/103200657/221297942-f023e558-f96b-4849-b6d7-e019028791a9.png">
 <br><br>
 
 <a href="https://github.com/AndreaDAlcantara/DS_Portfolio/blob/main/BigQuery.ipynb"><b>3. Exploratory Data Analysis using BigQuery and LookerStudio</b></a><br><br>
@@ -36,7 +36,7 @@ If you want to contact me, please use: https://www.linkedin.com/in/andreadalcant
 * Create spreadsheet on Google Sheets
 * Create Report/Dashboard on LookerStudio<br><br>
 
-<img width="889" alt="Looker Studio Dashboard" src="https://user-images.githubusercontent.com/103200657/221299389-bd1bc71a-5552-49cd-8af6-33f9af3256d9.png"><br><br>
+<img width="800" alt="Looker Studio Dashboard" src="https://user-images.githubusercontent.com/103200657/221299389-bd1bc71a-5552-49cd-8af6-33f9af3256d9.png"><br><br>
 
 <a href="https://github.com/AndreaDAlcantara/DS_Portfolio/blob/main/MachineLearning.ipynb"><b>4. Machine Learning - Customer Behaviour Prediction</b></a><br><br>
 
@@ -48,8 +48,14 @@ If you want to contact me, please use: https://www.linkedin.com/in/andreadalcant
 * Confusion Matrix, Model Accuracy and Weighting of Variables
 * Conclusion of Analysis and Prediction<br><br>
 
-<img width="821" alt="EDA Numerical Variables" src="https://user-images.githubusercontent.com/103200657/221301499-0dc12f7b-be6e-4178-8d13-4410752206ca.png">
-<img width="486" alt="Confusion Matrix - Logistic Regression" src="https://user-images.githubusercontent.com/103200657/221301502-03b54960-1d6b-4104-9081-bdbe11f01b7e.png"><br><br>
+<table><tr>
+  <td>
+    <img width="486" alt="EDA Numerical Variables" src="https://user-images.githubusercontent.com/103200657/221301499-0dc12f7b-be6e-4178-8d13-4410752206ca.png">
+  </td>
+  <td>
+    <img width="486" alt="Confusion Matrix - Logistic Regression" src="https://user-images.githubusercontent.com/103200657/221301502-03b54960-1d6b-4104-9081-bdbe11f01b7e.png">
+  </td>
+</tr></table>
 
 <a href="https://github.com/AndreaDAlcantara/AppliedDSCapstone"><b>5. Capstone Project - IBM Data Science Professional Certificate</b></a><br>
 
