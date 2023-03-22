@@ -36,7 +36,8 @@ If you want to contact me, please use: https://www.linkedin.com/in/andreadalcant
 * Create spreadsheet on Google Sheets
 * Create Report/Dashboard on LookerStudio<br><br>
 
-<img width="800" alt="Looker Studio Dashboard" src="https://user-images.githubusercontent.com/103200657/221299389-bd1bc71a-5552-49cd-8af6-33f9af3256d9.png"><br><br>
+<img width="800" alt="Looker Studio Dashboard" src="https://user-images.githubusercontent.com/103200657/221299389-bd1bc71a-5552-49cd-8af6-33f9af3256d9.png">
+<br><br>
 
 <a href="https://github.com/AndreaDAlcantara/DS_Portfolio/blob/main/MachineLearning.ipynb"><b>4. Machine Learning - Customer Behaviour Prediction</b></a><br><br>
 
@@ -56,14 +57,14 @@ If you want to contact me, please use: https://www.linkedin.com/in/andreadalcant
     <img width="486" alt="Confusion Matrix - Logistic Regression" src="https://user-images.githubusercontent.com/103200657/221301502-03b54960-1d6b-4104-9081-bdbe11f01b7e.png">
   </td>
 </tr></table>
-
-<a href="https://github.com/AndreaDAlcantara/AppliedDSCapstone"><b>5. Capstone Project - IBM Data Science Professional Certificate</b></a><br>
+<br>
+<a href="https://github.com/AndreaDAlcantara/AppliedDSCapstone"><b>5. Capstone Project - IBM Data Science Professional Certificate</b></a><br><br>
 
 The goal of this project as a data scientist is to predict the landing outcome of the first stage by gathering information about SpaceX and training a machine learning model in order to bid against it for a rocket launch.<br><br>
 
-<img width="1218" alt="Plotly Dash" src="https://user-images.githubusercontent.com/103200657/221304166-d55c3b1f-5344-41c3-8397-cef031ea9335.png">
+<img width="1218" alt="Plotly Dash" src="https://user-images.githubusercontent.com/103200657/221304166-d55c3b1f-5344-41c3-8397-cef031ea9335.png"><br><br>
 
-<a href="https://github.com/AndreaDAlcantara/DS_Portfolio/blob/main/TwitterSentiment.ipynb"><b>6. Twitter Sentiment Analysis with SnScrape, TextBlob and NLTK</b></a><br>
+<a href="https://github.com/AndreaDAlcantara/DS_Portfolio/blob/main/TwitterSentiment.ipynb"><b>6. Twitter Sentiment Analysis with SnScrape, TextBlob and NLTK</b></a><br><br>
 
 * Scrape tweets using Snscrape
 * Classify words from tweets using TextBlob
