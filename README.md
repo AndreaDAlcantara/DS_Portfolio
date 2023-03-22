@@ -63,4 +63,13 @@ The goal of this project as a data scientist is to predict the landing outcome o
 
 <img width="1218" alt="Plotly Dash" src="https://user-images.githubusercontent.com/103200657/221304166-d55c3b1f-5344-41c3-8397-cef031ea9335.png">
 
+<a href="https://github.com/AndreaDAlcantara/DS_Portfolio/blob/main/TwitterSentiment.ipynb"><b>6. Twitter Sentiment Analysis with SnScrape, TextBlob and NLTK</b></a><br><br>
+
+* Scrape tweets using Snscrape
+* Classify words from tweets using TextBlob
+* Data cleaning using NLTK to analyse only relevant words
+* Data visualization of Sentiment Analysis using Matplotlib
+* Word Cloud plotting to analyse most common words<br><br>
+
+
 
